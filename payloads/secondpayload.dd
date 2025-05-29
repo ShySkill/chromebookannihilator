@@ -1,4 +1,4 @@
-REM Chrome OS key combos in Duckyscript
+REM Chrome OS key combos in Duckyscript, opens magnifier, chromevox, high contrast, etc
 DELAY 1000
 CTRL GUI h
 DELAY 100
