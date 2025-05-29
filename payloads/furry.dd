@@ -1,0 +1,4 @@
+REM Looks up images of furries and presses enter
+DELAY 1000
+STRING https://www.google.com/search?tbm=isch&q=furries
+ENTER

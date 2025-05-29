@@ -1,0 +1,13 @@
+REM Closes most tabs and then shuts down chromebook
+DELAY 500
+CTRL W
+DELAY 100
+CTRL W
+DELAY 100
+CTRL W
+DELAY 100
+CTRL W
+DELAY 1000
+CTRL SHIFT Q
+DELAY 500
+CTRL SHIFT Q
